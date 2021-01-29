@@ -9,3 +9,21 @@
 * 苹果
 * 香蕉
 * 梨
+
+
+这是`一行代码`
+
+
+
+这是多行代码
+
+```javascript
+console.log('hello')
+console.log('hi')
+```
+
+```css
+body{
+  font-size: 20px;
+}
+```
